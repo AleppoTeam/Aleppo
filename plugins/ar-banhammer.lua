@@ -1,15 +1,12 @@
 --[[ 
-# 
-#ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ 
-#:(( 
-# For More Information ....! 
-# Developer : Aziz < @TH3_GHOST > 
-# our channel: @DevPointTeam 
-# Version: 1.1 
-#:)) 
-#ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ 
-# 
-]] 
+▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
+▀▄ ▄▀                                      ▀▄ ▄▀ 
+▀▄ ▄▀    BY Aleppo_Team                    ▀▄ ▄▀ 
+▀▄ ▄▀  BY Aleppo Team (@Developer_Aleppo)  ▀▄ ▄▀ 
+▀▄ ▄▀  JUST WRITED BY Aleppo Team          ▀▄ ▄▀ 
+▀▄ ▄▀     decoration  : بانهامير عربي         ▀▄ ▄▀ 
+▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
+--]] 
 local function pre_process(msg) 
   local data = load_data(_config.moderation.data) 
   -- SERVICE MESSAGE 
